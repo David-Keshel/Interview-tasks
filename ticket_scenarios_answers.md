@@ -22,7 +22,6 @@ And that should do it! After you make this change, please try running the script
 Regards,
 David Keshel
 Technical Support Engineer
-
 **Scenario 2**
 
 Good morning James,
