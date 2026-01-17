@@ -20,8 +20,11 @@ else:
 And that should do it! After you make this change, please try running the script again and let me know if you are getting any other errors or have any other questions. Have a great rest of your day!
 
 Regards,
+
 David Keshel
+
 Technical Support Engineer
+
 **Scenario 2**
 
 Good morning James,
@@ -33,7 +36,9 @@ Then, after we figure out how much we can automate, we can run it a few times an
 If all of that sounds good, just send over a step by step instructions on what you do each month, and I will review to see how much is doable. Thank you for your help with this, and I hope to hear from you soon!
 
 Regards,
+
 David Keshel
+
 Technical Support Engineer
 
 **Scenario 3**
@@ -49,7 +54,9 @@ If we can be sure the report is pulling exactly what you need, we shouldn't run 
 
 
 Regards,
+
 David Keshel
+
 Technical Support Engineer
 
 
@@ -63,7 +70,9 @@ The other issue is that we didn't send that error log back to your CRM. I am goi
 
 
 Regards,
+
 David Keshel
+
 Technical Support Engineer
 
 **Scenario 5**
@@ -77,7 +86,9 @@ With that in mind, if a record has a null value, do we want to include it in the
 
 
 Regards,
+
 David Keshel
+
 Technical Support Engineer
 
 
